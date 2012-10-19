@@ -1,14 +1,14 @@
 {
-  "name": "hogan.js"
-  , "description": "A mustache compiler."
-  , "version": "3.0.0"
+  "name": "techhead-hogan"
+  , "description": "A fork of Twitter's mustache compiler."
+  , "version": "0.0.1"
   , "keywords": ["mustache", "template"]
   , "main": "./lib/hogan.js"
-  , "homepage": "http://twitter.github.com/hogan.js/"
+  , "homepage": "https://github.com/techhead/hogan.js"
   , "author": "Twitter Inc."
   , "repository": {
     "type": "git"
-    , "url": "https://github.com/twitter/hogan.js.git"
+    , "url": "https://github.com/techhead/hogan.js.git"
   }
   , "licenses": [
     { "type": "Apache-2.0"
